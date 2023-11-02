@@ -22,7 +22,7 @@ img{
     height: auto;
 }
 .header{
-    display: flex;
+    display:flex;
     color: #2E363E;
     width: 1440px;
 height: 92px;
